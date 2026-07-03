@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+pydantic
+chromadb
+sentence-transformers
+groq
+pdfplumber
+beautifulsoup4
+torch
+torchvision
+python-dotenv
